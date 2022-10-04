@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorMVCTailwind", "RazorMVCTailwind.csproj", "{994E6987-A87F-4B6F-A66E-32B06E88481B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994E6987-A87F-4B6F-A66E-32B06E88481B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994E6987-A87F-4B6F-A66E-32B06E88481B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994E6987-A87F-4B6F-A66E-32B06E88481B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994E6987-A87F-4B6F-A66E-32B06E88481B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34DAC0BA-55E5-4A33-806F-CB6A64D7D60F}
+	EndGlobalSection
+EndGlobal
